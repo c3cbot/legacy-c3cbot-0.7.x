@@ -1,6 +1,6 @@
 {
   "name": "c3cbot",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "A customizable bot that runs on Facebook and Discord.",
   "main": "index.js",
   "scripts": {
@@ -11,12 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/c3cbot/c3c-0x.git"
   },
-  "keywords": [
-    "C\u001b[6~3C",
-    "C3C"
-  ],
   "author": "BadAimWeeb",
-  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/c3cbot/c3c-0x/issues"
   },
